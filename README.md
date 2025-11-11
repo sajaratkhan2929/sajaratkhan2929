@@ -1,9 +1,14 @@
 ## Hi there 👋
 •	I am Rumman Shajarat
+
 •	A dedicated Computer Science & Engineering (CSE) student
+
 •	💻Expertise in Python and C
+
 •	⭐Strong interest in Machine Learning and web technologies
+
 •	💡Passionate about innovative projects 
+
 •	🔖Fun fact: I dream in code
 
 ## 🌐 Socials:
